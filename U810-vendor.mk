@@ -1,4 +1,4 @@
-# Copyright (C) 2017 Errors !
+# Copyright (C) 2017 Feroxx !
 #
 
 DEVICE_PACKAGE_OVERLAYS := vendor/IUNI/U810/overlay
